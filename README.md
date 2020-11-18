@@ -13,7 +13,7 @@ My solutions to various hackerrank SQL problems
 |:------------------------:|:------:|:----------------:|
 | [Basic Select](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select)                                       |   245   | [Solution](https://github.com/AnnaB24/SQL_hackerrank_challenges/blob/main/SQL_Basic_select.md)                |
 |  [Aggregation](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=aggregation)                                                   |   265   | [Solution](https://github.com/AnnaB24/SQL_hackerrank_challenges/blob/main/SQL_Aggregation.md)                                 |
-|  [Basic Join](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=join)                                                           |   30   | [Solution]()                                       |
+|  [Basic Join](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=join)                                                           |   170   | [Solution]()                                       |
 | [Advanced Select](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=advanced-select)                                       |   30   | [Solution]()                           |
 |  [Advanced Join](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=advanced-join)                                         |   30   | [Solution]()                            |
 | [Alternative Queries](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=alternative-queries)                                                       |   10   | [Solution]()                                   |
