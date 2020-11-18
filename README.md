@@ -18,3 +18,8 @@ My solutions to various hackerrank SQL problems
 |  [Advanced Join](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=advanced-join)                                         |   0   | [Solutions]()                            |
 | [Alternative Queries](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=alternative-queries)                                                       |   0   | [Solutions]()                                   |
 
+<p align="center">
+    <a href="https://www.hackerrank.com/annap24">
+        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+    </a>
+</p>
